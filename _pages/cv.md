@@ -11,49 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Communication Engineering, Wuhan University of Technology, 2021
+* M.S. in Telecommunications, The Hong Kong University of Science and Technology, 2023
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 07/2021 - 07/2022: Software Development Engineer
+  * UI design
+  * Database structures, back-end & front-end design
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 08/2020 - 10/2020: Network Engineer Assistant
+  * Learned about the cutting-edge technology and development trend of 5G.
+  * Learned about optical transmission network technology.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages:
+  * Java, SQL, JavaScript, CSS, C, C++  
+* Frameworks:
+  * SpringBoot, Vue, Struts2, MyBatis
+* Tools:
+  * IDEA, VSCode, GIT, Postman, HBuilder, Matlab, JIRA, MoDao
 
-Publications
+UI of Projects
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  [Customized Message Push](https://modao.cc/app/AR4Xyzzpr70y4bg4IeXp6k),Password:1234
+
+
