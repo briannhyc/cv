@@ -13,7 +13,7 @@ redirect_from:
 
 **Feel free to drop me an email if you'd like to talk about/collaborate on any of software development projects with me.**
 
-Check out my [CV](https://Han-Yu-Chen.github.io/cv/)
+Check out my [CV](https://Han-Yu-Chen.github.io/cv/cv)
 and [English CV](https://han-yu-chen.github.io/cv/files/Resume_Hanyu_CHEN.pdf), [Chinese CV](https://han-yu-chen.github.io/cv/files/CHEN_Hanyu.pdf).
 
 
