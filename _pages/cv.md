@@ -35,8 +35,9 @@ Skills
 * Tools:
   * IDEA, VSCode, GIT, Postman, HBuilder, Matlab, JIRA, MoDao
 
-UI of Projects
+Resumes
 ======
-  [Customized Message Push](https://modao.cc/app/AR4Xyzzpr70y4bg4IeXp6k),Password:1234
+* [English Resume](https://han-yu-chen.github.io/cv/files/Resume_Hanyu_CHEN.pdf)
+* [Chinese Resume](https://han-yu-chen.github.io/cv/files/CHEN_Hanyu.pdf)
 
 
