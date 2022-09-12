@@ -13,7 +13,7 @@ redirect_from:
 
 **Feel free to drop me an <a href="mailto:hanyuchen2022@gmail.com">Email</a> if you'd like to talk about/collaborate on any of software development projects with me.**
 
-Check out my [CV](https://Han-Yu-Chen.github.io/cv/cv)
-and [English Resume](https://han-yu-chen.github.io/cv/files/Resume_Hanyu_CHEN.pdf), [Chinese Resume](https://han-yu-chen.github.io/cv/files/CHEN_Hanyu.pdf).
+ If you'd like to know more about me, please check out [here](https://Han-Yu-Chen.github.io/cv/cv).
+
 
 
