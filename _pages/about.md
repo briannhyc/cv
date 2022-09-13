@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- Hanyu Chen is an incoming Master of student at The Hong Kong University of Science and Technology (HKUST). She has interests in Computer Science. After her undergraduate degree, she act as software development engineer in SAIC Volkswagen Automobile Co. Ltd for one year. Responsible for the digital transformation of the company (the main users are the internal employees of the company, mainly Business projects) and the transfer of some processes from traditional offline to online.
+ Hanyu Chen is an incoming Master of student at The Hong Kong University of Science and Technology (HKUST). She has interests in Computer Science and Telecommunications. After her undergraduate degree, she has act as software development engineer in SAIC Volkswagen Automobile Co., Ltd for one year. Responsible for the digital transformation of the company (mainly internal Employee users, mainly Business projects) and the transfer of some processes from traditional offline to online.
 
 
 
