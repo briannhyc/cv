@@ -10,7 +10,7 @@ redirect_from:
  
 
 
-**Sorry, HanyuChen hasn't finished this part yet :((, but she promised to do it soon! **
+**Sorry, Hanyu Chen hasn't finished this part yet :((, but she has promised to do it soon!**
 **Thanks for your visiting~(Looking forward to see you next time :p)**
 
 
