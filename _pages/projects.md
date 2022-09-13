@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **Sorry, Hanyu Chen hasn't finished this part yet :((, but she has promised to do it soon!**
-**Thanks for your visiting~(Looking forward to see you next time :p)**
+**Thanks for your visiting~(Looking forward to seeing you again :p)**
 
 
 
