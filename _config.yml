@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hanyu Chen's Personal Website"
+title                    : "Yuchen Hong's Personal Website"
 title_separator          : "-"
-name                     : &name "Hanyu Chen"
+name                     : &name "Yuchen Hong"
 description              : &description "personal description"
-url                      : https://Han-Yu-Chen.github.io/cv # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://briannhyc.github.io/cv # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Han-Yu-Chen/cv.github.io"
+repository               : "briannhyc/cv.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hanyu Chen"
+  name             : "Hongyu Chen"
   avatar           : "profile.jpg"
-  bio              : "Student at HKUST"
+  bio              : "University of Toronto"
   location         : "HongKong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "hanyuchen2022@gmail.com"
+  email            : "brian.hyc0707@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Han-Yu-Chen"
+  github           : "briannhyc"
   google_plus      :
   keybase          :
   instagram        :
