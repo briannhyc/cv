@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Research & Working Paper"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,35 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Research & Working Paper
 ======
-* B.S. in Communication Engineering, Wuhan University of Technology, 2021
-* M.S. in Telecommunications, The Hong Kong University of Science and Technology, 2023
+* [Exploring the Impact of Board Size on Financial Performance](https://briannhyc.github.io/cv/files/Yuchen_Hong_Resume.pdf)
+* [Evaluating the Effectiveness of Suncor's CD&A Report](https://briannhyc.github.io/cv/files/Yuchen_Hong_Resume.pdf)
+* [Analyzing the Accuracy of Teck Resources' Accounting Earnings through Cash Flow Info](https://briannhyc.github.io/cv/files/Yuchen_Hong_Resume.pdf)
+* [Impact of Big Data and Blockchain Technology on Present and Future Accounting Practice](https://briannhyc.github.io/cv/files/Yuchen_Hong_Resume.pdf)
 
 
-Work experience
+
+
+Resume
 ======
-* 07/2021 - 07/2022: Software Development Engineer
-  * UI design
-  * Database structures, back-end & front-end design
+* [English Resume](https://briannhyc.github.io/cv/files/Yuchen_Hong_Resume.pdf)
 
-* 08/2020 - 10/2020: Network Engineer Assistant
-  * Learned about the cutting-edge technology and development trend of 5G.
-  * Learned about optical transmission network technology.
-
-  
-Skills
-======
-* Languages:
-  * Java, SQL, JavaScript, CSS, C, C++  
-* Frameworks:
-  * SpringBoot, Vue, Struts2, MyBatis
-* Tools:
-  * IDEA, VSCode, GIT, Postman, HBuilder, Matlab, JIRA, MoDao
-
-Resumes
-======
-* [English Resume](https://briannhyc.github.io/cv/files/Analyzing the Accuracy of Teck Resources’ Accrual Accounting Earnings through Cash Flow Information.pdf)
-* [Chinese Resume](https://han-yu-chen.github.io/cv/files/CHEN_Hanyu.pdf)
 
 
