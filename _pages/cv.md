@@ -11,10 +11,10 @@ redirect_from:
 
 Research & Working Paper
 ======
-* [Exploring the Impact of Board Size on Financial Performance](https://briannhyc.github.io/cv/files/Yuchen_Hong_Resume.pdf)
-* [Evaluating the Effectiveness of Suncor's CD&A Report](https://briannhyc.github.io/cv/files/Yuchen_Hong_Resume.pdf)
-* [Analyzing the Accuracy of Teck Resources' Accounting Earnings through Cash Flow Info](https://briannhyc.github.io/cv/files/Yuchen_Hong_Resume.pdf)
-* [Impact of Big Data and Blockchain Technology on Present and Future Accounting Practice](https://briannhyc.github.io/cv/files/Yuchen_Hong_Resume.pdf)
+* [Exploring the Impact of Board Size on Financial Performance](https://briannhyc.github.io/cv/files/E_ImpactOfBS.pdf)
+* [Evaluating the Effectiveness of Suncor's CD&A Report](https://briannhyc.github.io/cv/files/E_EffecOfS.pdf)
+* [Analyzing the Accuracy of Teck Resources' Accounting Earnings through Cash Flow Info](https://briannhyc.github.io/cv/files/A_CashFlowInfo.pdf)
+* [Impact of Big Data and Blockchain Technology on Present and Future Accounting Practice](https://briannhyc.github.io/cv/files/ImpactOfBDB.pdf)
 
 
 
