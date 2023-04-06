@@ -37,7 +37,7 @@ Skills
 
 Resumes
 ======
-* [English Resume](https://han-yu-chen.github.io/cv/files/Resume_Hanyu_CHEN.pdf)
+* [English Resume](https://briannhyc.github.io/cv/files/Analyzing the Accuracy of Teck Resources’ Accrual Accounting Earnings through Cash Flow Information.pdf)
 * [Chinese Resume](https://han-yu-chen.github.io/cv/files/CHEN_Hanyu.pdf)
 
 
